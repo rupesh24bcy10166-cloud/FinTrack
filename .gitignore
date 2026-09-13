@@ -1,0 +1,18 @@
+﻿# Java build artifacts
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE / Editor configuration
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
